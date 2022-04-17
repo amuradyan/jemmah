@@ -1,4 +1,4 @@
-# Jemmah
+# Jemmah 👧🎸
 
 ![alt](jemmah_playing_guitar.png)
 
